@@ -5,6 +5,11 @@
   <div style="margin-right: 20px">
     <!-- 내 사진 -->
     <img src="https://github.com/freedomDobby/freedomDobby/assets/107250341/763e09cd-dc63-4340-9584-343b094d49dc" alt="Photo" width="250px">
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FfreedomDobby&count_bg=%23DBE7C7&title_bg=%23E1BC5E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+    
   </div>
   <div style="display: flex; flex-direction: column;">
     <h3>Front-end 지망</h3>
