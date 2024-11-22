@@ -12,7 +12,7 @@
     
   </div>
   <div style="display: flex; flex-direction: column;">
-    <h3>Front-end 지망</h3>
+    <h3>Front-end 개발자</h3>
     <p>2023.01 - 2023.12 삼성청년 소프트웨어 아카데미 9기 수료</p>
     <p>2022.05 - 2022.11 Korea IT Academy Front-end 수료</p>
   </div>
